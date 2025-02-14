@@ -12,5 +12,4 @@ layout: qatar_item
 collection: qatar
 thumbnail: "/img/marcel1.jpg
 full: "/img/marcel1.jpg"
-manifest: "/img/marcel1.jpg"
 ---
