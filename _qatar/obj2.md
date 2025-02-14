@@ -2,7 +2,7 @@
 pid: obj2
 artist: Unknown
 location: Egypt
-label: foto marcel
+label: foto nyc
 _date: 14th century
 object_type: foto
 current_location: The Museum of Islamic Art, Qatar
@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Ce
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "img/marcel1.jpg"
-full: "img/marcel1.jpg"
+thumbnail: "/img/IMG_1932.jpeg"
+full: "/img/IMG_1932.jpeg"
 ---
