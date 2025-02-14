@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Egypt_or_Syria,_14th_Ce
 order: '01'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/marcel_1.jpg"
-full: "/img/marcel_1.jpg"
+thumbnail: "/img/marcel1.jpg"
+full: "/img/marcel1.jpg"
 ---
